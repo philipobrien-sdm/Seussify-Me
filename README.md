@@ -9,6 +9,8 @@ This project takes any normal block of text — a bedtime tale, a sci-fi adventu
 
 Now with **AI illustrations** and **Souvenir Saving**!
 
+For an example of the apps work, see https://github.com/philipobrien-sdm/Seussify-Me/blob/main/the-trunka-lunk-king-and-his-zizzle-zazzle-dream-.html
+
 Just feed in:
 > *Your story goes here…*
 
