@@ -9,8 +9,38 @@ This project takes any normal block of text — a bedtime tale, a sci-fi adventu
 
 Now with **AI illustrations** and **Souvenir Saving**!
 
-For an example of the apps work, see https://github.com/philipobrien-sdm/Seussify-Me/blob/main/the-trunka-lunk-king-and-his-zizzle-zazzle-dream-.html
+For an example of the apps work:
+<img width="500" height="500" alt="seuss1" src="https://github.com/user-attachments/assets/e59357ea-7a7b-4023-9bb2-0ac8142c6ec6" />
+*A traveler came from a far-off old land,
+With a twinkle, a blink, and some dust in his hand.
+He'd seen something STRANGE, so he started to say,
+"Oh, the desert holds wonders, out far, far away!
 
+"Two legs, grand and STURDY, like poles in the breeze,
+Stood without any body, or arms, if you please!
+Just stone-y old shin-bones, stuck fast in the grit,
+With no head, no torso, not even a bit!
+
+"And down in the sand, half-buried and glum,
+Was a face, quite a grim one, that made my heart thrum!
+A frown and a sneer, with a lip rather curled,
+As if scoffing at EVERYONE else in the world!
+That sculptor, he knew how to carve up a GRUMP!
+He'd caught all the bluster right there on that lump!
+
+"And a stone at its feet, gave a curious peep,
+With some words that would make any old traveler leap!
+It said: 'I am Ozymandias! Hear my GREAT BOAST!
+The King of all Kings, and the MOST of the most!
+Look 'round at my works, all you Wibblers and Wumps!
+And despair, all you meeklings! You'll get horrid grumps!'
+
+"But there was no ZIZZLE, no Zings, no Gazoop!
+Just legs in the desert, and sand in a scoop!
+No cities, no castles, no THING to be seen!
+Just a vast, dusty flatness, all yellow and lean!
+The sand stretched forever, so boundless and bare,
+A monument to NOTHING, just dust in the air!"*
 Just feed in:
 > *Your story goes here…*
 
