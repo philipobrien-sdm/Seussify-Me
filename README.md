@@ -11,7 +11,8 @@ Now with **AI illustrations** and **Souvenir Saving**!
 
 For an example of the apps work:
 <img width="500" height="500" alt="seuss1" src="https://github.com/user-attachments/assets/e59357ea-7a7b-4023-9bb2-0ac8142c6ec6" />
-*A traveler came from a far-off old land,
+
+_A traveler came from a far-off old land,
 With a twinkle, a blink, and some dust in his hand.
 He'd seen something STRANGE, so he started to say,
 "Oh, the desert holds wonders, out far, far away!
@@ -40,7 +41,9 @@ Just legs in the desert, and sand in a scoop!
 No cities, no castles, no THING to be seen!
 Just a vast, dusty flatness, all yellow and lean!
 The sand stretched forever, so boundless and bare,
-A monument to NOTHING, just dust in the air!"*
+A monument to NOTHING, just dust in the air!"_
+
+
 Just feed in:
 > *Your story goes here…*
 
