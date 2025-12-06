@@ -9,10 +9,11 @@ This project takes any normal block of text — a bedtime tale, a sci-fi adventu
 
 Now with **AI illustrations** and **Souvenir Saving**!
 
-For an example of the apps work:
+For an example of the apps work see this take on the old poem Ozymandias:
+
 <img width="500" height="500" alt="seuss1" src="https://github.com/user-attachments/assets/e59357ea-7a7b-4023-9bb2-0ac8142c6ec6" />
 
-_A traveler came from a far-off old land,
+A traveler came from a far-off old land,
 With a twinkle, a blink, and some dust in his hand.
 He'd seen something STRANGE, so he started to say,
 "Oh, the desert holds wonders, out far, far away!
@@ -41,7 +42,7 @@ Just legs in the desert, and sand in a scoop!
 No cities, no castles, no THING to be seen!
 Just a vast, dusty flatness, all yellow and lean!
 The sand stretched forever, so boundless and bare,
-A monument to NOTHING, just dust in the air!"_
+A monument to NOTHING, just dust in the air!"
 
 
 Just feed in:
